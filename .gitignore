@@ -14,3 +14,7 @@ data/database.db
 # vscode
 .vscode/
 .history/
+# Baba branch extras
+*.log
+*.tmp
+.env.local
